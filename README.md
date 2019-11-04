@@ -11,8 +11,8 @@ Lab 4: MIPS ALU Design
 
 Lab 5: MIPS Register File Design
 
-Lab 6: Single Cycle Datapath Design
+Lab 6: Single Cycle Datapath Design for MIPS
 
-Lab 7: MIPS Main Controller Design
+Lab 7: MIPS Multi Cycle Main Controller Design
 
 Lab 8: Pipeline Design
