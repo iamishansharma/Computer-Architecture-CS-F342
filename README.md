@@ -17,4 +17,4 @@ Lab 7: MIPS Multi Cycle Main Controller Design
 
 Lab 8: Pipeline Design
 
-PreviousYearsLabTest: 2013-14, 2015-16, 2017-18, 2019-20
+PreviousYearsLabTest: 2013-14, 2015-16, 2017-18, 2018-19, 2019-20
