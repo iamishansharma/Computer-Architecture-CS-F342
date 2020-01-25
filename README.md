@@ -1,4 +1,4 @@
-# Computer-Architecture-Lab
+# Computer Architecture (CS F342)
 These are my solutions to Computer Architecture Labsheets.
 
 ## Lab 1: 
