@@ -1,38 +1,38 @@
 # Computer Architecture (CS F342)
 These are my solutions to Computer Architecture Labsheets.
 
-## Lab 1: 
-  
-  Getting Started With Verilog HDL Programming
+  ## Lab 1: 
 
-## Lab 2: 
+    Getting Started With Verilog HDL Programming
 
-  Combinational Circuit Modelling 
+  ## Lab 2: 
 
-## Lab 3: 
+    Combinational Circuit Modelling 
 
-  Sequential Circuit Modelling 
+  ## Lab 3: 
 
-## Lab 4: 
-  
-  MIPS ALU Design
+    Sequential Circuit Modelling 
 
-## Lab 5: 
+  ## Lab 4: 
 
-  MIPS Register File Design
+    MIPS ALU Design
 
-## Lab 6: 
+  ## Lab 5: 
 
-  Single Cycle Datapath Design for MIPS
+    MIPS Register File Design
 
-## Lab 7: 
+  ## Lab 6: 
 
-  MIPS Multi Cycle Main Controller Design
+    Single Cycle Datapath Design for MIPS
 
-## Lab 8:  
-  
-  Pipeline Design
+  ## Lab 7: 
 
-## Previous Years Lab Tests: 
-  
-  2013-14, 2015-16, 2017-18, 2018-19, 2019-20
+    MIPS Multi Cycle Main Controller Design
+
+  ## Lab 8:  
+
+    Pipeline Design
+
+  ## Previous Years Lab Tests: 
+
+    2013-14, 2015-16, 2017-18, 2018-19, 2019-20
