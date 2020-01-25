@@ -33,6 +33,6 @@ These are my solutions to Computer Architecture Labsheets.
   
   Pipeline Design
 
-## PreviousYearsLabTest: 
+## Previous Years Lab Tests: 
   
   2013-14, 2015-16, 2017-18, 2018-19, 2019-20
