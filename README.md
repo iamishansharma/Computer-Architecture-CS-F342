@@ -1,5 +1,6 @@
 # Computer Architecture (CS F342)
-These are my solutions to Computer Architecture Labsheets at BITS Pilani, Fall 2019
+
+These are my solutions of labsheets for Computer Architecture (CS F342) at BITS Pilani, Fall 2019
 
   ## Lab 1: 
 
