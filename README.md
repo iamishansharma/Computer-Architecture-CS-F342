@@ -2,38 +2,38 @@
 
 These are my solutions of labsheets for Computer Architecture (CS F342) at BITS Pilani, Fall 2019
 
-  ## Lab 1: 
+## Lab 1: 
 
-    Getting Started With Verilog HDL Programming
+Getting Started With Verilog HDL Programming
 
-  ## Lab 2: 
+## Lab 2: 
 
-    Combinational Circuit Modelling 
+Combinational Circuit Modelling 
 
-  ## Lab 3: 
+## Lab 3: 
 
-    Sequential Circuit Modelling 
+Sequential Circuit Modelling 
 
-  ## Lab 4: 
+## Lab 4: 
 
-    MIPS ALU Design
+MIPS ALU Design
 
-  ## Lab 5: 
+## Lab 5: 
 
-    MIPS Register File Design
+MIPS Register File Design
 
-  ## Lab 6: 
+## Lab 6: 
 
-    Single Cycle Datapath Design for MIPS
+Single Cycle Datapath Design for MIPS
 
-  ## Lab 7: 
+## Lab 7: 
 
-    MIPS Multi Cycle Main Controller Design
+MIPS Multi Cycle Main Controller Design
 
-  ## Lab 8:  
+## Lab 8:  
 
-    Pipeline Design
+Pipeline Design
 
-  ## Previous Years Lab Tests: 
+## Previous Years Lab Tests: 
 
-    2013-14, 2015-16, 2017-18, 2018-19, 2019-20
+2013-14, 2015-16, 2017-18, 2018-19, 2019-20
